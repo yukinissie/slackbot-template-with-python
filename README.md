@@ -1,7 +1,9 @@
 # slackbot-template-with-python
-以下を参考にします。
+以下を参考にしました。
 
 https://slack.dev/bolt-python/ja-jp/tutorial/getting-started
+
+Slackアプリの設定等は[こちらのリポジトリ](https://github.com/yukinissie/tst-hackathon-with-slackbot)のハンズオン資料を確認して下さい。
 
 ## 環境
 ```
@@ -34,8 +36,8 @@ ngrok http 3000
 
 ## 開発終了時にすること
 ```
-Botを終了(ctrl+c)
-ngrokを終了(ctrl+c)
+# Botを終了(ctrl+c)
+# ngrokを終了(ctrl+c)
 deactivate
 ```
 
