@@ -1,5 +1,5 @@
 # slackbot-template-with-python
-以下を参考にしました。
+以下のサイトを参考にしました。機能の追加等にも参考になるサイトだと思います。
 
 https://slack.dev/bolt-python/ja-jp/tutorial/getting-started
 
